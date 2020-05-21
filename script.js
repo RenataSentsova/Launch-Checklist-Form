@@ -37,7 +37,7 @@ document.addEventListener('DOMContentLoaded', () => {
       else {
          const text = `<table>
                      <tr align="center"><th><h2 style="color:red;">
-                     Sorry, we did not find any products
+                     Sorry, we did not find any data
                      </th></hd></tr>
                      </table>`;
          container.innerHTML = text;
